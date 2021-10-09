@@ -15,6 +15,6 @@ Estou em transição de carreira, meu objetivo inicial é ingressar na área de 
 ##
   
 </div>
-  <a href="https://https://www.instagram.com/kelmaria25" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/kelmaria25" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.linkedin.com/in/raquel-gomes-389309208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>

@@ -1,4 +1,5 @@
-## Sou Raquel, graduada em Análise e Desenvolvimento de Sistemas, e atualmente trabalho como Analista de Qualidade.
+## 
+Sou Raquel, graduada em Análise e Desenvolvimento de Sistemas, e atualmente trabalho como Analista de Qualidade.
 
 Tenho experiência em planejamento de testes, criação de cenários e casos de teste, e habilidades práticas em testes manuais exploratórios front-end e testes de API com Postman. Atualmente, estou aprofundando meus conhecimentos em automação de testes, buscando continuamente garantir a qualidade e eficiência dos processos de desenvolvimento.
 

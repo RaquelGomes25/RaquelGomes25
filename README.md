@@ -1,10 +1,10 @@
-## Olá! Eu sou a Raquel Gomes
+## Sou Raquel, graduada em Análise e Desenvolvimento de Sistemas, e atualmente trabalho como Analista de Qualidade.
 
-Estou em transição de carreira, meu objetivo inicial é ingressar na área de TI, onde sei que vou me deparar com diversas possibilidades, estou encantada com o universo do desenvolvimento e ansiosa para dominar HTML, CSS, Javascript, Python ... quero ver a transformação que esse conhecimento me trará, para que eu possa beneficiar as empresas por onde vou me dedicar.
+Tenho experiência em planejamento de testes, criação de cenários e casos de teste, e habilidades práticas em testes manuais exploratórios front-end e testes de API com Postman. Atualmente, estou aprofundando meus conhecimentos em automação de testes, buscando continuamente garantir a qualidade e eficiência dos processos de desenvolvimento.
 
-- Estou estudando novas tecnologias 💻
-- Cursando ADS na Estácio
-- Faço parte do Construdelas JS+
+Além disso, sou apaixonada por aprender e compartilhar conhecimento, contribuindo para o crescimento de outras pessoas e equipes.
+
+#Qualidade #TestesDeSoftware #AutomaçãoDeTestes #Playwright #Cypress
 
 <div align="center">
   <a href="https://github.com/raquelgomes25">
